@@ -1,0 +1,12 @@
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.pdb
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.dll
+C:\Users\Яна\source\repos\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.pdb
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csprojResolveAssemblyReference.cache
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.csproj.CoreCompileInputs.cache
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.dll
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\obj\Debug\MyCollections.pdb
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.dll
+C:\Users\Папа\source\repos\Demo.MyGeneric.Dnepr\Demo.MyGeneric\MyCollections\bin\Debug\MyCollections.pdb
